@@ -1,0 +1,4 @@
+Poppler
+pytesseract
+PIL
+pdf2image

@@ -25,7 +25,8 @@ By providing the filename and, optionally, a language as command line arguments,
 - install and add Tesseract to PATH (Windows)
 - run tesseract --list-langs to check available languages
 - install a language if needed by downloading a ".traineddata" file and placing it inside the "Tesseract-OCRtessdata" folder (Windows): https://github.com/tesseract-ocr/tessdata
-- make shure poppler is in the program's main folder (it is required for PDF files)
+- make shure poppler is in the program's main folder, otherwise the program won't work on PDF files (Windows): https://github.com/oschwartz10612/poppler-windows/releases/
+- Poppler (Linux): install poppler-utils
 - run python ocr.py filename [language]
 
 ## Github Repository

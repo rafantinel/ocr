@@ -1,4 +1,4 @@
-# OCR - Command Line
+# Python OCR - Command Line
 
 ## Description
 
@@ -30,4 +30,4 @@ By providing the filename and, optionally, a language as command line arguments,
 
 ## Github Repository
 
-https://github.com/rafantinel/OCR-Command-Line
+https://github.com/rafantinel/Python-OCR-Command-Line

@@ -1,4 +1,4 @@
 poppler-0.68.0/
 out.txt
-.pdf
-.jpg
+*.pdf
+*.jpg

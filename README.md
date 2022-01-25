@@ -24,10 +24,11 @@ By providing the filename and, optionally, a language as command line arguments,
 - download Tesseract in (Windows): https://github.com/UB-Mannheim/tesseract/wiki
 - install and add Tesseract to PATH (Windows)
 - run tesseract --list-langs to check available languages
-- install a language if needed by downloading a ".traineddata" file and placing it inside the "Tesseract-OCRtessdata" folder (Windows): https://github.com/tesseract-ocr/tessdata
-- make shure poppler is in the program's main folder, otherwise the program won't work on PDF files (Windows): https://github.com/oschwartz10612/poppler-windows/releases/
+- install a language if needed by downloading a ".traineddata" file and placing it inside the "Tesseract-OCR/tessdata" folder (Windows): https://github.com/tesseract-ocr/tessdata
+- make shure poppler is in the program's main folder, otherwise the program won't work on PDF files (Windows): https://blog.alivate.com.au/poppler-windows/
 - Poppler (Linux): install poppler-utils
 - run python ocr.py filename [language]
+- run tesseract --help-extra to know about the configuration parameters that might be changed on the custom_config variable
 
 ## Github Repository
 

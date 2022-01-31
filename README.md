@@ -32,4 +32,4 @@ By providing the filename and, optionally, a language as command line arguments,
 
 ## Github Repository
 
-https://github.com/rafantinel/Python-OCR-Command-Line
+https://github.com/rafantinel/ocr
